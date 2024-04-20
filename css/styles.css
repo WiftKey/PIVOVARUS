@@ -1,0 +1,38 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fdfdfd98;
+}
+
+section {
+  height: 100vh;
+  padding: 1rem;
+}
+ 
+#section1 {
+  background-image: url('img/beg0.jpg');
+  width: 100%;
+  background-size: cover;
+  background-attachment: scroll;
+  
+}
+ 
+#section2 {
+  background-color: #ddd;
+  width: 100%;
+  background-size: cover;
+}
+ 
+#section3 {
+  background-color: #ddd;
+  width: 100%;
+  
+}
