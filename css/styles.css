@@ -8,6 +8,14 @@ body {
 
 .d{
   text-align: center;
+  position:absolute;
+	 left: 600px;;
+	 top: 1400px;;
+}
+.c{
+  position:absolute;
+	 left: 650px;;
+	 top: 1350px;;
 }
 .container {
   max-width: 960px;
